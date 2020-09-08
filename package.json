@@ -7,6 +7,6 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "dev:server":"nodemon src/index.js"
+    "dev:server":"nodemon src/asyncAwait.js"
   }
 }
