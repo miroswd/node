@@ -16,7 +16,7 @@ Array.prototype.myMap = function (callback){
 const main = async () => {
   try {
     
-    const results = await api.getPeople('1')
+    const results = await api.getPeople('a')
     const starships = []
     
     // results.starships.forEach((item) => {
